@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Portfolio | Ujjwal Labh</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+
+<style>
+a:hover {
+ 
+  background:blue;
+  /*width: 50px;*/
+ 
+}
+</style>
+
+<body>
+<div class="container-fluid" style="background:skyblue">
+  <div class="row">
+<div class="col-md-4" style="background:#172035">
+<img id="logo" src="image/logo.png" style="width:200px" alt="My Logo">
+</div>
+<div class="col-md-8" style="background:#172035">
+ <div class="row" style="margin-top:19px">
+    <div class="col-md-2">
+	<a href="index.html" style="padding:15px;text-decoration: none;font-size:1.5em;"><strong>Home</strong></a>
+    </div>
+	<div class="col-md-2">
+	<a href="index.html#aboutme" style="padding:20px;text-decoration: none;">About Me</a>
+    </div>
+	<div class="col-md-2">
+	<a href="index.html#certifications" style="padding:20px;text-decoration: none;">Certifications</a>
+    </div>
+	<div class="col-md-2">
+	<a href="index.html" style="padding:20px;text-decoration: none;">Projects</a>
+    </div>
+	<div class="col-md-2">
+	<a href="https://www.thetechanalysis.com/" target="_blank" style="padding:20px;text-decoration: none;">Blogs</a>
+    </div>
+	<div class="col-md-2">
+	<a href="index.html" style="padding:20px;text-decoration: none;">Contact</a>
+    </div>  
+  </div>
+  </div>
+</div>
+ 
+  
+  
+  
+  <div class="container-fluid">
+<div class="row">
+<div class="col-md-8" >
+  <img src="image/back.png"/>
+  <center><h2 style="color:tomato"><b>Hey There,</b></h2>
+  <h3 style="color:tomato">I Am Ujjwal Kumar Labh</h3>
+  <h4 style="color:tomato">Web Developer</h4>
+  </center>
+</div>
+<div class="col-md-4" >
+<img src="image/myimage.png"/>
+<center><a href="image/cv.pdf" class="btn btn-primary center form-control" target="_blank">Get CV</a></center>
+</div>
+</div>
+
+
+
+
+
+</div>
+
+</div>
+</div>
+</div>
+<div class="container-fluid" style="background-color:#848683;">
+<div class="row">
+<div class="col-md-12">
+<center><h1 style="color:black;text-shadow: 6px 6px 10px black;background-color:#848683;font-size: 5em;"><i>About Me</i></h1></center>
+</div>
+</div>
+</div>
+
+<div class="container-fluid" >
+<div class="row">
+<div class="col-md-12">
+<div style="height:100px"></div>
+</div>
+</div>
+</div>
+
+<div class="container-fluid" style="background-color:#848683;">
+<div class="row">
+<div class="col-md-12">
+<p style="color:white;font-size:15pt;top:650;background-color:#848683;height:250px;">Recently I completed my 1st year of Bachelor at University of kalyani in kalyani,<br> West-Bengal
+      with stream Information Technology.During that one year along with <br> the
+      classes and academic works I also focused on the programming
+      and i came to build <br> excellent skills in C and Python language
+      also in Data structure and algorithm which <br> are the two main aspects
+      of problem solving. I completed a 6 week course Google <br> IT Support Professional Certificate
+      which covers networking, operating system, <br> troubleshooting, system administration, security
+      and hands on lab. I have also earned <br> a certificate of course completion of Python data structure
+      and getting started with <br> python from University of Michigan which was a 14 week course in total.</p>
+  </section>
+</div>
+</div>
+</div>
+<div class="container-fluid" >
+<div class="row">
+<div class="col-md-12">
+<div style="height:100px"></div>
+</div>
+</div>
+</div>
+
+<div class="container-fluid" style="background-color:#848683;">
+<div class="row">
+<div class="col-md-12">
+<center><h1 style="color:black;text-shadow: 6px 6px 10px black;background-color:#848683;font-size: 5em;"><i>Certifications</i></h1></center>
+</div>
+</div>
+</div>
+
+
+<div class="container" style="margin-top:50px" >
+<div class="row">
+<div class="col-md-4">
+<div class="course">
+  <img src="image/html5.jpg" alt="HTML5 For Beginner to Advance"style="width:300px;height:200px;margin-left:10px" >
+  <h3 style="color:black;font-style:oblique;margin-left:10px;margin-top:0px">HTML5 Ultimate Course</h3>
+  <h5 style="color:black;font-style:oblique;margin-left:10px">HTML5 For Web Development<br>This course help to get started with front end development.<br> To know the contents of course click on Know More</h5>
+  <a href="https://www.udemy.com/course/the-complete-html-5-course-from-scratch/" target="_blank"><button style="float:left;margin-left:60px;margin-top:0px;width:130px;font-size:0.8em">Know More.</button></a>
+  <a href="image/HTML5.pdf" target="_blank"><button style="float:left;width:130px;font-size:0.8em;margin-left:15px">Certificate</button></a>
+</div>
+</div>
+<div class="col-md-4">
+<div class="course1">
+    <img src="image/google.jpeg" alt="IT Support Specialist by Google" style="width:300px;height:200px;margin-left:20px">
+   <h3 style="color:black;font-style:oblique;margin-top:0px;">IT Support Specialist</h3>
+   <h5 style="color:black;font-style:oblique;margin-top:0px">A Technical support fundamental course provided by google on coursera.<br>To know about the contents of course i learned click on know more.</h5>
+   <a href="https://www.udemy.com/course/the-complete-html-5-course-from-scratch/" target="_blank"><button style="float:left;margin-left:60px;margin-top:0px;width:130px;font-size:0.8em">Know More.</button></a>
+   <a href="image/HTML5.pdf" target="_blank"><button style="float:left;width:130px;font-size:0.8em;margin-left:15px">Certificate</button></a>
+</div>
+</div>
+<div class="col-md-4">
+
+</div>
+</div>
+</div>
+
+<div class="container-fluid" style="background:#172035;margin-top:30px;">
+<div class="row">
+<div class="col-md-3">
+<img id="logo" src="image/logo.png" width="200">
+</div>
+<div class="col-md-6">
+<p id="footer" style="color:white;margin-top:20px">© Copyright 2021. All Rights Reserved. | Ujjwal Kr. Labh</p>
+</div>
+<div class="col-md-3">
+
+</div>
+</div>
+</div>
+
+
+
+
+</body>
+</head>
+</html>
